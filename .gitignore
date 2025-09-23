@@ -1,0 +1,26 @@
+# Build va obyekt fayllarini ignor qilish
+bin/
+obj/
+
+# Visual Studio/VS Code sozlamalari
+.vs/
+.vscode/
+
+# Foydalanuvchi konfiguratsiyalari
+*.user
+*.suo
+*.cache
+*.pdb
+*.mdb
+
+# Qo‘shimcha log va tmp fayllar
+*.log
+*.tmp
+
+# Paketlar (nuget restore qilinadi)
+packages/
+*.nupkg
+
+# Operating system specific
+[Dd]esktop.ini
+[Tt]humbs.db

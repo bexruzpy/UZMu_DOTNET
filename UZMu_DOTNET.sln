@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UZMu_DOTNET", "UZMu_DOTNET.csproj", "{FF810171-E08C-86C9-56E9-DA6327E0D502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF810171-E08C-86C9-56E9-DA6327E0D502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF810171-E08C-86C9-56E9-DA6327E0D502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF810171-E08C-86C9-56E9-DA6327E0D502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF810171-E08C-86C9-56E9-DA6327E0D502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E0A326-119B-4164-92E7-3CAFF4B8CBBC}
+	EndGlobalSection
+EndGlobal
