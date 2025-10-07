@@ -10,6 +10,6 @@ internal class Program
     private static void Main(string[] args)
     {
         // Lesson1.Program.Run(args);
-        Lesson2.Program.Run(args);
+        Lesson4.Program.Run(args);
     }
 }
