@@ -3,7 +3,7 @@ using System;
 namespace Lesson4 {
     internal class Program {
 
-        private static void Main(string[] args) {
+        public static void Run(string[] args) {
             Sanoq_sestem k = new Sanoq_sestem(15);
             Console.WriteLine(k.Ikkilik());
         }
@@ -20,10 +20,10 @@ namespace Lesson4 {
             string a = "", b = "";
             while (this.raqam > 0)
             {
-                aa + this.raqam % 2;
+                a = a + this.raqam % 2;
                 this.raqam = this.raqam / 2;
             }
-            for (int i = a.length - 1; i >= 0; i--)
+            for (int i = a.Length - 1; i >= 0; i--)
             {
                 b = b + a[i];
             }
